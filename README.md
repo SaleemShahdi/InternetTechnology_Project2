@@ -1,6 +1,6 @@
-My partner's and my code are in 'rs.py', 'ts1.py' and 'ts2.py'. Our report is in 'report.pdf'.
+My partner's and my code are in **rs.py**, **ts1.py** and **ts2.py**. Our report is in **report.pdf**.
 
-The project description is in 'Project 2 Instructions.pdf' and included below for convenience:
+The project description is in **Project 2 Instructions.pdf** and included below for convenience:
 
 <h3 align="center">Project #2: RU-DNS: Build your own DNS</h3>
 <h4 align="center">CS 352 Internet Technology</h4>
